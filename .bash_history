@@ -49,3 +49,29 @@ git status
 git remote add wm https://github.com/vallichaitu-ecom/Wallmart1.git
 git remote -v
 git push wm master
+git remote -v
+git init
+git status
+git remote -v
+git config --global --list
+git push wm master
+git remote -v
+git push wm master
+git status
+git remote add wm https://github.com/vallichaitu-ecom/Wallmart1.git
+git remote -v
+git push wm master
+git status
+git add .
+git add ..
+git config --global --list
+git commit -m "created deploy.sh"
+git push wm master
+git commit -m "first commit"
+git config --global --list
+git push wm master
+git remote add wm https://github.com/vallichaitu-ecom/Wallmart1.git
+git remote -v
+git push wm master
+git push wm1 master
+exit
