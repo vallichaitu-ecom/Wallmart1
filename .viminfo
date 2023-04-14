@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1681472900,,"wq"
+|2,0,1681474575,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,32 +25,48 @@
 # Registers:
 
 # File marks:
-'0  2  22  ~/DButils.java
-|4,48,2,22,1681472900,"~/DButils.java"
-'1  1  29  ~/stringutils.java
-|4,49,1,29,1681472489,"~/stringutils.java"
-'2  1  17  ~/DButils.java
-|4,50,1,17,1681472052,"~/DButils.java"
+'0  1  39  ~/users.java
+|4,48,1,39,1681474575,"~/users.java"
+'1  2  22  ~/DButils.java
+|4,49,2,22,1681472900,"~/DButils.java"
+'2  1  29  ~/stringutils.java
+|4,50,1,29,1681472489,"~/stringutils.java"
 '3  1  17  ~/DButils.java
 |4,51,1,17,1681472052,"~/DButils.java"
-'4  1  0  ~/Dbuils.java
-|4,52,1,0,1681472014,"~/Dbuils.java"
-'5  1  38  ~/wallmart/deploy.sh
-|4,53,1,38,1680947363,"~/wallmart/deploy.sh"
-'6  1  40  ~/wallmart/stringutils.java
-|4,54,1,40,1680946617,"~/wallmart/stringutils.java"
-'7  1  17  ~/wallmart/DButilis.java
-|4,55,1,17,1680946294,"~/wallmart/DButilis.java"
+'4  1  17  ~/DButils.java
+|4,52,1,17,1681472052,"~/DButils.java"
+'5  1  0  ~/Dbuils.java
+|4,53,1,0,1681472014,"~/Dbuils.java"
+'6  1  38  ~/wallmart/deploy.sh
+|4,54,1,38,1680947363,"~/wallmart/deploy.sh"
+'7  1  40  ~/wallmart/stringutils.java
+|4,55,1,40,1680946617,"~/wallmart/stringutils.java"
+'8  1  17  ~/wallmart/DButilis.java
+|4,56,1,17,1680946294,"~/wallmart/DButilis.java"
 
 # Jumplist (newest first):
+-'  1  39  ~/users.java
+|4,39,1,39,1681474575,"~/users.java"
 -'  2  22  ~/DButils.java
 |4,39,2,22,1681472900,"~/DButils.java"
+-'  2  22  ~/DButils.java
+|4,39,2,22,1681472900,"~/DButils.java"
+-'  1  17  ~/DButils.java
+|4,39,1,17,1681472880,"~/DButils.java"
 -'  1  17  ~/DButils.java
 |4,39,1,17,1681472880,"~/DButils.java"
 -'  1  29  ~/stringutils.java
 |4,39,1,29,1681472489,"~/stringutils.java"
 -'  1  29  ~/stringutils.java
 |4,39,1,29,1681472489,"~/stringutils.java"
+-'  1  29  ~/stringutils.java
+|4,39,1,29,1681472489,"~/stringutils.java"
+-'  1  29  ~/stringutils.java
+|4,39,1,29,1681472489,"~/stringutils.java"
+-'  1  17  ~/DButils.java
+|4,39,1,17,1681472052,"~/DButils.java"
+-'  1  17  ~/DButils.java
+|4,39,1,17,1681472052,"~/DButils.java"
 -'  1  17  ~/DButils.java
 |4,39,1,17,1681472052,"~/DButils.java"
 -'  1  17  ~/DButils.java
@@ -71,6 +87,54 @@
 |4,39,1,0,1681472014,"~/Dbuils.java"
 -'  1  0  ~/Dbuils.java
 |4,39,1,0,1681472014,"~/Dbuils.java"
+-'  1  0  ~/Dbuils.java
+|4,39,1,0,1681472014,"~/Dbuils.java"
+-'  1  0  ~/Dbuils.java
+|4,39,1,0,1681472014,"~/Dbuils.java"
+-'  1  0  ~/Dbuils.java
+|4,39,1,0,1681472014,"~/Dbuils.java"
+-'  1  0  ~/Dbuils.java
+|4,39,1,0,1681472014,"~/Dbuils.java"
+-'  1  0  ~/Dbuils.java
+|4,39,1,0,1681472014,"~/Dbuils.java"
+-'  1  0  ~/Dbuils.java
+|4,39,1,0,1681472014,"~/Dbuils.java"
+-'  1  0  ~/Dbuils.java
+|4,39,1,0,1681472014,"~/Dbuils.java"
+-'  1  0  ~/Dbuils.java
+|4,39,1,0,1681472014,"~/Dbuils.java"
+-'  1  38  ~/wallmart/deploy.sh
+|4,39,1,38,1680947363,"~/wallmart/deploy.sh"
+-'  1  38  ~/wallmart/deploy.sh
+|4,39,1,38,1680947363,"~/wallmart/deploy.sh"
+-'  1  38  ~/wallmart/deploy.sh
+|4,39,1,38,1680947363,"~/wallmart/deploy.sh"
+-'  1  38  ~/wallmart/deploy.sh
+|4,39,1,38,1680947363,"~/wallmart/deploy.sh"
+-'  1  38  ~/wallmart/deploy.sh
+|4,39,1,38,1680947363,"~/wallmart/deploy.sh"
+-'  1  38  ~/wallmart/deploy.sh
+|4,39,1,38,1680947363,"~/wallmart/deploy.sh"
+-'  1  38  ~/wallmart/deploy.sh
+|4,39,1,38,1680947363,"~/wallmart/deploy.sh"
+-'  1  38  ~/wallmart/deploy.sh
+|4,39,1,38,1680947363,"~/wallmart/deploy.sh"
+-'  1  38  ~/wallmart/deploy.sh
+|4,39,1,38,1680947363,"~/wallmart/deploy.sh"
+-'  1  38  ~/wallmart/deploy.sh
+|4,39,1,38,1680947363,"~/wallmart/deploy.sh"
+-'  1  38  ~/wallmart/deploy.sh
+|4,39,1,38,1680947363,"~/wallmart/deploy.sh"
+-'  1  38  ~/wallmart/deploy.sh
+|4,39,1,38,1680947363,"~/wallmart/deploy.sh"
+-'  1  38  ~/wallmart/deploy.sh
+|4,39,1,38,1680947363,"~/wallmart/deploy.sh"
+-'  1  38  ~/wallmart/deploy.sh
+|4,39,1,38,1680947363,"~/wallmart/deploy.sh"
+-'  1  38  ~/wallmart/deploy.sh
+|4,39,1,38,1680947363,"~/wallmart/deploy.sh"
+-'  1  38  ~/wallmart/deploy.sh
+|4,39,1,38,1680947363,"~/wallmart/deploy.sh"
 -'  1  38  ~/wallmart/deploy.sh
 |4,39,1,38,1680947363,"~/wallmart/deploy.sh"
 -'  1  38  ~/wallmart/deploy.sh
@@ -167,84 +231,29 @@
 |4,39,1,40,1680946617,"~/wallmart/stringutils.java"
 -'  1  40  ~/wallmart/stringutils.java
 |4,39,1,40,1680946617,"~/wallmart/stringutils.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
--'  1  17  ~/wallmart/DButilis.java
-|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
+-'  1  40  ~/wallmart/stringutils.java
+|4,39,1,40,1680946617,"~/wallmart/stringutils.java"
+-'  1  40  ~/wallmart/stringutils.java
+|4,39,1,40,1680946617,"~/wallmart/stringutils.java"
+-'  1  40  ~/wallmart/stringutils.java
+|4,39,1,40,1680946617,"~/wallmart/stringutils.java"
+-'  1  40  ~/wallmart/stringutils.java
+|4,39,1,40,1680946617,"~/wallmart/stringutils.java"
+-'  1  40  ~/wallmart/stringutils.java
+|4,39,1,40,1680946617,"~/wallmart/stringutils.java"
+-'  1  40  ~/wallmart/stringutils.java
+|4,39,1,40,1680946617,"~/wallmart/stringutils.java"
+-'  1  40  ~/wallmart/stringutils.java
+|4,39,1,40,1680946617,"~/wallmart/stringutils.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/users.java
+	*	1681474569	0
+	"	1	39
+	^	1	40
+	.	1	39
+	+	1	39
 
 > ~/DButils.java
 	*	1681472897	0
