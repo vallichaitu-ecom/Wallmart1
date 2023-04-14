@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1680947363,,"wq"
+|2,0,1681472052,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,72 @@
 # Registers:
 
 # File marks:
-'0  1  38  ~/wallmart/deploy.sh
-|4,48,1,38,1680947363,"~/wallmart/deploy.sh"
-'1  1  40  ~/wallmart/stringutils.java
-|4,49,1,40,1680946617,"~/wallmart/stringutils.java"
-'2  1  17  ~/wallmart/DButilis.java
-|4,50,1,17,1680946294,"~/wallmart/DButilis.java"
+'0  1  17  ~/DButils.java
+|4,48,1,17,1681472052,"~/DButils.java"
+'1  1  0  ~/Dbuils.java
+|4,49,1,0,1681472014,"~/Dbuils.java"
+'2  1  38  ~/wallmart/deploy.sh
+|4,50,1,38,1680947363,"~/wallmart/deploy.sh"
+'3  1  40  ~/wallmart/stringutils.java
+|4,51,1,40,1680946617,"~/wallmart/stringutils.java"
+'4  1  17  ~/wallmart/DButilis.java
+|4,52,1,17,1680946294,"~/wallmart/DButilis.java"
 
 # Jumplist (newest first):
+-'  1  17  ~/DButils.java
+|4,39,1,17,1681472052,"~/DButils.java"
+-'  1  0  ~/Dbuils.java
+|4,39,1,0,1681472014,"~/Dbuils.java"
+-'  1  0  ~/Dbuils.java
+|4,39,1,0,1681472014,"~/Dbuils.java"
+-'  1  38  ~/wallmart/deploy.sh
+|4,39,1,38,1680947363,"~/wallmart/deploy.sh"
+-'  1  38  ~/wallmart/deploy.sh
+|4,39,1,38,1680947363,"~/wallmart/deploy.sh"
+-'  1  38  ~/wallmart/deploy.sh
+|4,39,1,38,1680947363,"~/wallmart/deploy.sh"
 -'  1  38  ~/wallmart/deploy.sh
 |4,39,1,38,1680947363,"~/wallmart/deploy.sh"
 -'  1  40  ~/wallmart/stringutils.java
 |4,39,1,40,1680946617,"~/wallmart/stringutils.java"
 -'  1  40  ~/wallmart/stringutils.java
 |4,39,1,40,1680946617,"~/wallmart/stringutils.java"
+-'  1  40  ~/wallmart/stringutils.java
+|4,39,1,40,1680946617,"~/wallmart/stringutils.java"
+-'  1  40  ~/wallmart/stringutils.java
+|4,39,1,40,1680946617,"~/wallmart/stringutils.java"
+-'  1  40  ~/wallmart/stringutils.java
+|4,39,1,40,1680946617,"~/wallmart/stringutils.java"
+-'  1  40  ~/wallmart/stringutils.java
+|4,39,1,40,1680946617,"~/wallmart/stringutils.java"
+-'  1  40  ~/wallmart/stringutils.java
+|4,39,1,40,1680946617,"~/wallmart/stringutils.java"
+-'  1  40  ~/wallmart/stringutils.java
+|4,39,1,40,1680946617,"~/wallmart/stringutils.java"
+-'  1  17  ~/wallmart/DButilis.java
+|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
+-'  1  17  ~/wallmart/DButilis.java
+|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
+-'  1  17  ~/wallmart/DButilis.java
+|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
+-'  1  17  ~/wallmart/DButilis.java
+|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
+-'  1  17  ~/wallmart/DButilis.java
+|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
+-'  1  17  ~/wallmart/DButilis.java
+|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
+-'  1  17  ~/wallmart/DButilis.java
+|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
+-'  1  17  ~/wallmart/DButilis.java
+|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
+-'  1  17  ~/wallmart/DButilis.java
+|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
+-'  1  17  ~/wallmart/DButilis.java
+|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
+-'  1  17  ~/wallmart/DButilis.java
+|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
+-'  1  17  ~/wallmart/DButilis.java
+|4,39,1,17,1680946294,"~/wallmart/DButilis.java"
 -'  1  17  ~/wallmart/DButilis.java
 |4,39,1,17,1680946294,"~/wallmart/DButilis.java"
 -'  1  17  ~/wallmart/DButilis.java
@@ -49,6 +101,17 @@
 |4,39,1,17,1680946294,"~/wallmart/DButilis.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/DButils.java
+	*	1681472049	0
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
+
+> ~/Dbuils.java
+	*	1681472011	0
+	"	1	0
 
 > ~/wallmart/deploy.sh
 	*	1680947361	0
