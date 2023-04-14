@@ -75,3 +75,24 @@ git remote -v
 git push wm master
 git push wm1 master
 exit
+git init
+git status
+git add .
+git status
+git commit -m "add bash"
+git status
+git config global list
+git config --global --list
+git remote add wm https://github.com/vallichaitu-ecom/Wallmart1.git
+git remote -v
+git init
+git status
+git remote -v
+git push wm master
+git push -u origin master
+git push wm master
+git config credential.helper
+git push wm master
+git push wm1 master
+git remote -v
+git push wm master
