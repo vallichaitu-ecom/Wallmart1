@@ -178,3 +178,10 @@ git add
 git add .
 git commit -a -m "add"
 git push wm master
+ls
+git status
+git add .
+git status
+git commit -m "update"
+git push wm master
+git status
